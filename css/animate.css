@@ -1,0 +1,13 @@
+#box1 {
+    background-color: chocolate;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+}
+
+#box2 {
+    background-color: crimson;
+    height: 200px;
+    width: 200px;
+}
